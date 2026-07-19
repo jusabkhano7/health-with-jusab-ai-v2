@@ -1,4 +1,4 @@
 function sayHello() {
   document.getElementById("output").innerHTML =
-    "Website is working successfully!";
+    "JavaScript is working successfully!";
 }
